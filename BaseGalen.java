@@ -34,7 +34,7 @@ import com.galenframework.reports.model.LayoutReport;
 
 public class BaseGalen {
 	// TODO: will be moved to jenkins config in future
-	String input = "http://charts3.equitystory/chart/kpn";
+	String input = "http://xyz/chart/kpn";
 	String username = "adev";
 	String country = "UK";
 
